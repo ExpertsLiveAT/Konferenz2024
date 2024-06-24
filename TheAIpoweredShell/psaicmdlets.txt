@@ -1,0 +1,124 @@
+
+CLEAR
+
+Convert-FROM
+
+ConvertFrom-FunctionDefinition   DEV Helper Cmdlet
+ConvertFrom-GPTMarkdownTable    ERROR - no value
+ConvertFrom-OAIAssistant        ERROR - assistant required
+Convertfrom-UNixTimestamp       DEV Helper CmdLet
+
+Convert-TO
+
+ConvertTo-OAIAssistant          Convert DATA Table (which) to an Open AI Assistant
+ConvertTo-OpenAIFunctionSpec    ???
+ConvertTo-OpenAIFunctionSpecDataType
+ConvertTo-ToolFormat            HELPER
+
+COPY
+
+Copy-OAIAssistant               ERROR Copy-OAIAssistant -AssistantId $a1[1].id -NewName PS2 -verbose
+
+DISABLE
+
+Disable-UnitTesting 
+
+ENABLE
+
+Enable-OAICodeInterpreter
+Enable-OAIRetrievalTool
+Enable-UnitTesting
+
+EXPORT
+
+Export-OAIAssistant     ERROR - cann
+
+FORMAT
+
+Format-OAIFunctionCall
+
+GET
+
+Get-AzOAISecrets
+Get-FunctionDefinition
+Get-MultipartFormData   Error
+Get-OAIAssistant        Mit -name Parameter schreibt in Get-UnittestingData
+Get-OAIAssistantItem
+Get-OAIFile             Zeigt hochgeladene Files
+Get-OAIFileContent      Kann den Inhalt eines Files welches mit dem purpose "fine-tuning" hochlegaden wurde angezeigt werden.
+Get-OAIFileItem
+Get-OAIFunctionCallSpec
+Get-OAIMessage
+Get-OAIProvider         Emits the current Provider used
+Get-OAIRun              ERROR
+Get-OAIRunItem
+Get-OAIRunStep
+Get-OAIThread
+Get-OAIThreadItem
+Get-OpenAISpecDescriptions
+Get-UnitTestingData
+Get-UnitTestingStatus
+
+IMPORT 
+
+Import-OAIAssistant     ERROR - daten fehlen
+
+INVOKE
+
+Invoke-AIExplain        ERROR - auch mit gepipten daten
+Invoke-FilesToPrompt    Mit Pfadangabe wird nur der Inhalt angezeigt.
+Invoke-OAIBeta          ERROR - sieht nach einem wrapper for invoke-restmethod aus  
+Invoke-OAIChat          Hauptfunktion -UserInput -model -Instructions
+Invoke-OAIUploadFile    File-Upload funktion
+Invoke-QuickChat        Chat on the console -Assistantid required, goes on and on until CTRL-C
+Invoke-SimpleQuestion   Ask ONE simple question
+
+NEW 
+
+New-OAIAssistant
+New-OAIMessage
+New-OAIRun
+New-OAIThread
+New-OAIThreadQuery
+
+OUT 
+
+Out-OAIMessages
+
+REMOVE
+
+Remove-OAIAssistant
+Remove-OAIFile
+Remove-OAIThread
+
+RESET 
+
+Reset-OAIProvider
+
+SET 
+
+Set-AzOAISecrets
+Set-OAIProvider
+
+SHOW 
+
+Show-OAIAPIReferenceWebPage     Geht alles auf Webseiten
+Show-OAIAssistantWebPage
+Show-OAIPlaygroundWebPage
+
+SUBMIT 
+
+Submit-OAIMessage
+Submit-OAIToolOutputs
+
+
+TEST 
+
+Test-JsonReplacement
+Test-LLMModel                   ERROR
+Test-OAIAssistantId             Mit Assistenid true/false
+
+
+UPDATE 
+
+Update-OAIAssistent         Parameter eines Assistenten ändern
